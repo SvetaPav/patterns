@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\pattern_command\bin\Debug\pattern_command.exe.config
+C:\Sveta\С#\patterns\pattern_command\bin\Debug\pattern_command.exe
+C:\Sveta\С#\patterns\pattern_command\bin\Debug\pattern_command.pdb
+C:\Sveta\С#\patterns\pattern_command\obj\Debug\pattern_command.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\pattern_command\obj\Debug\pattern_command.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\pattern_command\obj\Debug\pattern_command.exe
+C:\Sveta\С#\patterns\pattern_command\obj\Debug\pattern_command.pdb

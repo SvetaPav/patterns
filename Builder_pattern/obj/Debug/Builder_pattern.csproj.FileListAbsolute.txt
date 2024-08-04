@@ -1,0 +1,7 @@
+C:\Sveta\С#\Builder_pattern\bin\Debug\Builder_pattern.exe.config
+C:\Sveta\С#\Builder_pattern\bin\Debug\Builder_pattern.exe
+C:\Sveta\С#\Builder_pattern\bin\Debug\Builder_pattern.pdb
+C:\Sveta\С#\Builder_pattern\obj\Debug\Builder_pattern.csproj.AssemblyReference.cache
+C:\Sveta\С#\Builder_pattern\obj\Debug\Builder_pattern.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\Builder_pattern\obj\Debug\Builder_pattern.exe
+C:\Sveta\С#\Builder_pattern\obj\Debug\Builder_pattern.pdb

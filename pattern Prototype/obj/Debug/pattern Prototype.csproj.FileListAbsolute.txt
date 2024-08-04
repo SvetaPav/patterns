@@ -1,0 +1,7 @@
+C:\Sveta\С#\pattern Prototype\bin\Debug\pattern Prototype.exe.config
+C:\Sveta\С#\pattern Prototype\bin\Debug\pattern Prototype.exe
+C:\Sveta\С#\pattern Prototype\bin\Debug\pattern Prototype.pdb
+C:\Sveta\С#\pattern Prototype\obj\Debug\pattern Prototype.csproj.AssemblyReference.cache
+C:\Sveta\С#\pattern Prototype\obj\Debug\pattern Prototype.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\pattern Prototype\obj\Debug\pattern Prototype.exe
+C:\Sveta\С#\pattern Prototype\obj\Debug\pattern Prototype.pdb

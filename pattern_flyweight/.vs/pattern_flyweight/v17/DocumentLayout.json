@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sveta\\\u0421#\\patterns\\pattern_flyweight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC578B69-8FA4-4E48-89DC-F10B3B021564}|..\\puttern_flyWeight2\\puttern_flyWeight2.csproj|c:\\sveta\\\u0441#\\patterns\\puttern_flyweight2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75578BAA-0485-49C7-AE4C-8CE3D304583F}|pattern_flyweight.csproj|c:\\sveta\\\u0441#\\patterns\\pattern_flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75578BAA-0485-49C7-AE4C-8CE3D304583F}|pattern_flyweight.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sveta\\\u0421#\\patterns\\puttern_flyWeight2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\puttern_flyWeight2\\Program.cs",
+              "ToolTip": "C:\\Sveta\\\u0421#\\patterns\\puttern_flyWeight2\\Program.cs",
+              "RelativeToolTip": "..\\puttern_flyWeight2\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAuwHMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:26:31.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sveta\\\u0421#\\patterns\\pattern_flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sveta\\\u0421#\\patterns\\pattern_flyweight\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:49:08.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

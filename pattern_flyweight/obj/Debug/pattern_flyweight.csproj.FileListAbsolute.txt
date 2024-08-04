@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\pattern_flyweight\bin\Debug\pattern_flyweight.exe.config
+C:\Sveta\С#\patterns\pattern_flyweight\bin\Debug\pattern_flyweight.exe
+C:\Sveta\С#\patterns\pattern_flyweight\bin\Debug\pattern_flyweight.pdb
+C:\Sveta\С#\patterns\pattern_flyweight\obj\Debug\pattern_flyweight.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\pattern_flyweight\obj\Debug\pattern_flyweight.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\pattern_flyweight\obj\Debug\pattern_flyweight.exe
+C:\Sveta\С#\patterns\pattern_flyweight\obj\Debug\pattern_flyweight.pdb

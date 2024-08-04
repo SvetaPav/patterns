@@ -1,0 +1,7 @@
+C:\Sveta\С#\Singleton_pattern\obj\Debug\Singleton_pattern.csproj.AssemblyReference.cache
+C:\Sveta\С#\Singleton_pattern\obj\Debug\Singleton_pattern.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\Singleton_pattern\bin\Debug\Singleton_pattern.exe.config
+C:\Sveta\С#\Singleton_pattern\bin\Debug\Singleton_pattern.exe
+C:\Sveta\С#\Singleton_pattern\bin\Debug\Singleton_pattern.pdb
+C:\Sveta\С#\Singleton_pattern\obj\Debug\Singleton_pattern.exe
+C:\Sveta\С#\Singleton_pattern\obj\Debug\Singleton_pattern.pdb

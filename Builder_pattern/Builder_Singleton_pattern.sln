@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_pattern", "Builder_pattern.csproj", "{D5355C9C-AFB7-4456-B4B1-603DBBC10572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_pattern", "..\Singleton_pattern\Singleton_pattern.csproj", "{5A6232A6-581B-4F58-A1DE-B737C5967C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5355C9C-AFB7-4456-B4B1-603DBBC10572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5355C9C-AFB7-4456-B4B1-603DBBC10572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5355C9C-AFB7-4456-B4B1-603DBBC10572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5355C9C-AFB7-4456-B4B1-603DBBC10572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6232A6-581B-4F58-A1DE-B737C5967C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6232A6-581B-4F58-A1DE-B737C5967C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6232A6-581B-4F58-A1DE-B737C5967C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6232A6-581B-4F58-A1DE-B737C5967C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99DD466-8BD3-4F12-A8F2-F924739C9B22}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\pattern_bridge\bin\Debug\pattern_bridge.exe.config
+C:\Sveta\С#\patterns\pattern_bridge\bin\Debug\pattern_bridge.exe
+C:\Sveta\С#\patterns\pattern_bridge\bin\Debug\pattern_bridge.pdb
+C:\Sveta\С#\patterns\pattern_bridge\obj\Debug\pattern_bridge.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\pattern_bridge\obj\Debug\pattern_bridge.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\pattern_bridge\obj\Debug\pattern_bridge.exe
+C:\Sveta\С#\patterns\pattern_bridge\obj\Debug\pattern_bridge.pdb

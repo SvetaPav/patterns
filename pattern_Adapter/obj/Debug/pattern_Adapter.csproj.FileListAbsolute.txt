@@ -1,0 +1,7 @@
+C:\Sveta\С#\pattern_Adapter\bin\Debug\pattern_Adapter.exe.config
+C:\Sveta\С#\pattern_Adapter\bin\Debug\pattern_Adapter.exe
+C:\Sveta\С#\pattern_Adapter\bin\Debug\pattern_Adapter.pdb
+C:\Sveta\С#\pattern_Adapter\obj\Debug\pattern_Adapter.csproj.AssemblyReference.cache
+C:\Sveta\С#\pattern_Adapter\obj\Debug\pattern_Adapter.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\pattern_Adapter\obj\Debug\pattern_Adapter.exe
+C:\Sveta\С#\pattern_Adapter\obj\Debug\pattern_Adapter.pdb

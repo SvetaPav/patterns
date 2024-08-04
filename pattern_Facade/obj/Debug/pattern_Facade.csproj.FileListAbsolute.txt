@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\pattern_Facade\bin\Debug\pattern_Facade.exe.config
+C:\Sveta\С#\patterns\pattern_Facade\bin\Debug\pattern_Facade.exe
+C:\Sveta\С#\patterns\pattern_Facade\bin\Debug\pattern_Facade.pdb
+C:\Sveta\С#\patterns\pattern_Facade\obj\Debug\pattern_Facade.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\pattern_Facade\obj\Debug\pattern_Facade.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\pattern_Facade\obj\Debug\pattern_Facade.exe
+C:\Sveta\С#\patterns\pattern_Facade\obj\Debug\pattern_Facade.pdb

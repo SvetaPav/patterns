@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\Task_facade\bin\Debug\Task_facade.exe.config
+C:\Sveta\С#\patterns\Task_facade\bin\Debug\Task_facade.exe
+C:\Sveta\С#\patterns\Task_facade\bin\Debug\Task_facade.pdb
+C:\Sveta\С#\patterns\Task_facade\obj\Debug\Task_facade.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\Task_facade\obj\Debug\Task_facade.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\Task_facade\obj\Debug\Task_facade.exe
+C:\Sveta\С#\patterns\Task_facade\obj\Debug\Task_facade.pdb

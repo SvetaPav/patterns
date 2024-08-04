@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\pattern_Proxy\obj\Debug\pattern_Proxy.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\pattern_Proxy\obj\Debug\pattern_Proxy.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\pattern_Proxy\bin\Debug\pattern_Proxy.exe.config
+C:\Sveta\С#\patterns\pattern_Proxy\bin\Debug\pattern_Proxy.exe
+C:\Sveta\С#\patterns\pattern_Proxy\bin\Debug\pattern_Proxy.pdb
+C:\Sveta\С#\patterns\pattern_Proxy\obj\Debug\pattern_Proxy.exe
+C:\Sveta\С#\patterns\pattern_Proxy\obj\Debug\pattern_Proxy.pdb

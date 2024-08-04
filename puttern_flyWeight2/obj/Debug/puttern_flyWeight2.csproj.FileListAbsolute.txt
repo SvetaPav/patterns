@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\puttern_flyWeight2\bin\Debug\puttern_flyWeight2.exe.config
+C:\Sveta\С#\patterns\puttern_flyWeight2\bin\Debug\puttern_flyWeight2.exe
+C:\Sveta\С#\patterns\puttern_flyWeight2\bin\Debug\puttern_flyWeight2.pdb
+C:\Sveta\С#\patterns\puttern_flyWeight2\obj\Debug\puttern_flyWeight2.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\puttern_flyWeight2\obj\Debug\puttern_flyWeight2.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\puttern_flyWeight2\obj\Debug\puttern_flyWeight2.exe
+C:\Sveta\С#\patterns\puttern_flyWeight2\obj\Debug\puttern_flyWeight2.pdb

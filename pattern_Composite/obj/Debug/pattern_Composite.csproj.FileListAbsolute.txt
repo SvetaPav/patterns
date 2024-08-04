@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\pattern_Composite\bin\Debug\pattern_Composite.exe.config
+C:\Sveta\С#\patterns\pattern_Composite\bin\Debug\pattern_Composite.exe
+C:\Sveta\С#\patterns\pattern_Composite\bin\Debug\pattern_Composite.pdb
+C:\Sveta\С#\patterns\pattern_Composite\obj\Debug\pattern_Composite.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\pattern_Composite\obj\Debug\pattern_Composite.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\pattern_Composite\obj\Debug\pattern_Composite.exe
+C:\Sveta\С#\patterns\pattern_Composite\obj\Debug\pattern_Composite.pdb

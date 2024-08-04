@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns 25.05.24\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Sveta\С#\patterns 25.05.24\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Sveta\С#\patterns 25.05.24\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Sveta\С#\patterns 25.05.24\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns 25.05.24\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns 25.05.24\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Sveta\С#\patterns 25.05.24\AbstractFactory\obj\Debug\AbstractFactory.pdb

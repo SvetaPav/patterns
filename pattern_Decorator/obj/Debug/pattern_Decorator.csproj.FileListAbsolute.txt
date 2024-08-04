@@ -1,0 +1,7 @@
+C:\Sveta\С#\patterns\pattern_Decorator\obj\Debug\pattern_Decorator.csproj.AssemblyReference.cache
+C:\Sveta\С#\patterns\pattern_Decorator\obj\Debug\pattern_Decorator.csproj.CoreCompileInputs.cache
+C:\Sveta\С#\patterns\pattern_Decorator\bin\Debug\pattern_Decorator.exe.config
+C:\Sveta\С#\patterns\pattern_Decorator\bin\Debug\pattern_Decorator.exe
+C:\Sveta\С#\patterns\pattern_Decorator\bin\Debug\pattern_Decorator.pdb
+C:\Sveta\С#\patterns\pattern_Decorator\obj\Debug\pattern_Decorator.exe
+C:\Sveta\С#\patterns\pattern_Decorator\obj\Debug\pattern_Decorator.pdb
